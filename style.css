@@ -5,7 +5,7 @@
 }
 
 .kartu-profil {
-   width: 300px;
+   width: 350px;
    margin: 50px auto;
    padding: 20px;
    bg-color: cream;
@@ -16,6 +16,6 @@
 
 
 .kartu-profil.jpg {
-  width: 200px;
+  width: 150px;
   border-radius: 50%;
 }
